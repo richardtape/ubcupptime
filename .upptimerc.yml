@@ -18,7 +18,7 @@ status-website:
   baseUrl: /ubcupptime
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://brand3.sites.olt.ubc.ca/files/2018/09/2Crest_ex_768.png
   name: UBC Uptime
   introTitle: "CTLT WordPress Instance Public Uptime Monitoring"
   introMessage: "Real-time Monitoring of UBC CMS, UBC Blogs, UBC CTLT Events, and UBC CourseSpaces environments."
