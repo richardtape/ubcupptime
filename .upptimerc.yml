@@ -20,13 +20,19 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: UBC Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introTitle: "CTLT WordPress Instance Public Uptime Monitoring"
+  introMessage: **Real-Time** Monitoring of UBC CMS, UBC Blogs, UBC CTLT Events, and UBC CourseSpaces environments.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: CMS
+      href: https://cms.ubc.ca
+    - title: Blogs
+      href: https://blogs.ubc.ca
+    - title: CTLT Events
+      href: https://events.ctlt.ubc.ca
+    - title: CourseSpaces
+      href: https://coursespaces.ubc.ca
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
