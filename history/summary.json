@@ -1,42 +1,34 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "CMS",
+    "url": "https://cms.ubc.ca",
+    "slug": "cms",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 794
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Blogs",
+    "url": "https://blogs.ubc.ca",
+    "slug": "blogs",
     "status": "up",
     "uptime": "100.00",
-    "time": 135
+    "time": 778
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "CTLT Events",
+    "url": "https://events.ctlt.ubc.ca",
+    "slug": "ctlt-events",
     "status": "up",
     "uptime": "100.00",
-    "time": 339
+    "time": 1283
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "99.96",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "CourseSpaces",
+    "url": "https://coursespaces.ubc.ca/",
+    "slug": "course-spaces",
     "status": "up",
     "uptime": "100.00",
-    "time": 49
+    "time": 1750
   }
 ]
