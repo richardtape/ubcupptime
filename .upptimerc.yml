@@ -24,7 +24,7 @@ status-website:
   introMessage: "Real-time Monitoring of UBC CMS, UBC Blogs, UBC CTLT Events, and UBC CourseSpaces environments."
   navbar:
     - title: Status
-      href: /
+      href: /ubcupptime
     - title: CMS
       href: https://cms.ubc.ca
     - title: Blogs
