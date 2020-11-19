@@ -21,7 +21,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: UBC Uptime
   introTitle: "CTLT WordPress Instance Public Uptime Monitoring"
-  introMessage: "**Real-Time** Monitoring of UBC CMS, UBC Blogs, UBC CTLT Events, and UBC CourseSpaces environments."
+  introMessage: "Real-time Monitoring of UBC CMS, UBC Blogs, UBC CTLT Events, and UBC CourseSpaces environments."
   navbar:
     - title: Status
       href: /
