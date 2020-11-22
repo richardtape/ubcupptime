@@ -1,7 +1,7 @@
-- url: https://events.ctlt.ubc.ca
-- status: up
-- code: 200
-- responseTime: 1417
-- lastUpdated: 2020-11-21T23:03:19.669Z
-- startTime: 2020-11-19T20:09:33.108Z
-- generator: Upptime <https://github.com/upptime/upptime>
+url: https://events.ctlt.ubc.ca  
+status: up
+code: 200
+responseTime: 1433
+lastUpdated: 2020-11-22T23:03:04.129Z
+startTime: Thu Nov 19 2020 20:09:33 GMT+0000 (Coordinated Universal Time)
+generator: Upptime <https://github.com/upptime/upptime>
