@@ -4,31 +4,31 @@
     "url": "https://cms.ubc.ca",
     "slug": "cms",
     "status": "up",
-    "uptime": "100.00",
-    "time": 614
+    "uptime": "100.00%",
+    "time": 627
   },
   {
     "name": "Blogs",
     "url": "https://blogs.ubc.ca",
     "slug": "blogs",
     "status": "up",
-    "uptime": "100.00",
-    "time": 661
+    "uptime": "100.00%",
+    "time": 670
   },
   {
     "name": "CTLT Events",
     "url": "https://events.ctlt.ubc.ca",
     "slug": "ctlt-events",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1313
+    "uptime": "100.00%",
+    "time": 1326
   },
   {
     "name": "CourseSpaces",
     "url": "https://coursespaces.ubc.ca/",
     "slug": "course-spaces",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1322
+    "uptime": "100.00%",
+    "time": 1293
   }
 ]
