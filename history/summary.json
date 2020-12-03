@@ -5,7 +5,7 @@
     "slug": "cms",
     "status": "up",
     "uptime": "100.00%",
-    "time": 587
+    "time": 586
   },
   {
     "name": "Blogs",
@@ -13,7 +13,7 @@
     "slug": "blogs",
     "status": "up",
     "uptime": "100.00%",
-    "time": 714
+    "time": 710
   },
   {
     "name": "CTLT Events",
@@ -21,7 +21,7 @@
     "slug": "ctlt-events",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1326
+    "time": 1329
   },
   {
     "name": "CourseSpaces",
@@ -29,6 +29,6 @@
     "slug": "course-spaces",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1483
+    "time": 1502
   }
 ]
