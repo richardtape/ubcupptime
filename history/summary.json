@@ -5,7 +5,15 @@
     "slug": "cms",
     "status": "up",
     "uptime": "100.00%",
-    "time": 586
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 590,
+    "timeDay": 676,
+    "timeWeek": 583,
+    "timeMonth": 590,
+    "timeYear": 590
   },
   {
     "name": "Blogs",
@@ -13,7 +21,15 @@
     "slug": "blogs",
     "status": "up",
     "uptime": "100.00%",
-    "time": 710
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 711,
+    "timeDay": 711,
+    "timeWeek": 789,
+    "timeMonth": 711,
+    "timeYear": 711
   },
   {
     "name": "CTLT Events",
@@ -21,7 +37,15 @@
     "slug": "ctlt-events",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1329
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1330,
+    "timeDay": 1347,
+    "timeWeek": 1364,
+    "timeMonth": 1330,
+    "timeYear": 1330
   },
   {
     "name": "CourseSpaces",
@@ -29,6 +53,14 @@
     "slug": "course-spaces",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1502
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1529,
+    "timeDay": 2063,
+    "timeWeek": 1777,
+    "timeMonth": 1529,
+    "timeYear": 1529
   }
 ]
