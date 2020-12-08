@@ -2,6 +2,7 @@
   {
     "name": "CMS",
     "url": "https://cms.ubc.ca",
+    "icon": "https://favicons.githubusercontent.com/cms.ubc.ca",
     "slug": "cms",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 654,
-    "timeWeek": 612,
-    "timeMonth": 591,
-    "timeYear": 591
+    "time": 586,
+    "timeDay": 474,
+    "timeWeek": 566,
+    "timeMonth": 586,
+    "timeYear": 586,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blogs",
     "url": "https://blogs.ubc.ca",
+    "icon": "https://favicons.githubusercontent.com/blogs.ubc.ca",
     "slug": "blogs",
     "status": "up",
     "uptime": "100.00%",
@@ -26,14 +29,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 715,
-    "timeDay": 764,
-    "timeWeek": 777,
+    "timeDay": 712,
+    "timeWeek": 773,
     "timeMonth": 715,
-    "timeYear": 715
+    "timeYear": 715,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CTLT Events",
     "url": "https://events.ctlt.ubc.ca",
+    "icon": "https://favicons.githubusercontent.com/events.ctlt.ubc.ca",
     "slug": "ctlt-events",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1370,
-    "timeDay": 2197,
-    "timeWeek": 1486,
-    "timeMonth": 1370,
-    "timeYear": 1370
+    "time": 1369,
+    "timeDay": 1349,
+    "timeWeek": 1475,
+    "timeMonth": 1369,
+    "timeYear": 1369,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CourseSpaces",
     "url": "https://coursespaces.ubc.ca/",
+    "icon": "https://favicons.githubusercontent.com/coursespaces.ubc.ca",
     "slug": "course-spaces",
     "status": "up",
     "uptime": "100.00%",
@@ -57,10 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1473,
-    "timeDay": 1049,
-    "timeWeek": 1560,
-    "timeMonth": 1473,
-    "timeYear": 1473
+    "time": 1481,
+    "timeDay": 1673,
+    "timeWeek": 1475,
+    "timeMonth": 1481,
+    "timeYear": 1481,
+    "dailyMinutesDown": {}
   }
 ]
