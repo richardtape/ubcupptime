@@ -4,18 +4,20 @@
     "url": "https://cms.ubc.ca",
     "icon": "https://favicons.githubusercontent.com/cms.ubc.ca",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 476,
-    "timeWeek": 525,
-    "timeMonth": 577,
-    "timeYear": 577,
-    "dailyMinutesDown": {}
+    "time": 574,
+    "timeDay": 450,
+    "timeWeek": 510,
+    "timeMonth": 568,
+    "timeYear": 574,
+    "dailyMinutesDown": {
+      "2020-12-19": 0
+    }
   },
   {
     "name": "Blogs",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 726,
-    "timeDay": 668,
-    "timeWeek": 773,
-    "timeMonth": 726,
-    "timeYear": 726,
+    "time": 724,
+    "timeDay": 666,
+    "timeWeek": 767,
+    "timeMonth": 737,
+    "timeYear": 724,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1345,
-    "timeDay": 1238,
-    "timeWeek": 1283,
-    "timeMonth": 1345,
-    "timeYear": 1345,
+    "time": 1341,
+    "timeDay": 1190,
+    "timeWeek": 1272,
+    "timeMonth": 1349,
+    "timeYear": 1341,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1599,
-    "timeDay": 1591,
-    "timeWeek": 1721,
-    "timeMonth": 1599,
-    "timeYear": 1599,
+    "time": 1583,
+    "timeDay": 1008,
+    "timeWeek": 1617,
+    "timeMonth": 1616,
+    "timeYear": 1583,
     "dailyMinutesDown": {}
   }
 ]
