@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 571,
-    "timeDay": 433,
-    "timeWeek": 527,
-    "timeMonth": 597,
-    "timeYear": 571,
+    "time": 573,
+    "timeDay": 774,
+    "timeWeek": 573,
+    "timeMonth": 603,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2021-02-09": 30,
       "2020-12-23": 38,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 700,
-    "timeDay": 605,
-    "timeWeek": 600,
-    "timeMonth": 653,
+    "timeDay": 691,
+    "timeWeek": 621,
+    "timeMonth": 654,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2021-01-22": 59
@@ -48,17 +48,23 @@
     "icon": "https://favicons.githubusercontent.com/events.ctlt.ubc.ca",
     "slug": "ctlt-events",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.89%",
     "time": 1410,
-    "timeDay": 1146,
-    "timeWeek": 1225,
-    "timeMonth": 1399,
+    "timeDay": 1496,
+    "timeWeek": 1279,
+    "timeMonth": 1403,
     "timeYear": 1410,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-09": 30,
+      "2021-01-22": 59,
+      "2020-12-23": 38,
+      "2020-12-20": 68,
+      "2020-12-19": 2
+    }
   },
   {
     "name": "CourseSpaces",
@@ -66,16 +72,22 @@
     "icon": "https://favicons.githubusercontent.com/coursespaces.ubc.ca",
     "slug": "course-spaces",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1585,
-    "timeDay": 1489,
-    "timeWeek": 1483,
-    "timeMonth": 1561,
-    "timeYear": 1585,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.89%",
+    "time": 1581,
+    "timeDay": 1037,
+    "timeWeek": 1362,
+    "timeMonth": 1543,
+    "timeYear": 1581,
+    "dailyMinutesDown": {
+      "2021-02-09": 30,
+      "2021-01-22": 59,
+      "2020-12-23": 38,
+      "2020-12-20": 68,
+      "2020-12-19": 2
+    }
   }
 ]
