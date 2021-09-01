@@ -69,18 +69,19 @@
     "icon": "https://favicons.githubusercontent.com/coursespaces.ubc.ca",
     "slug": "course-spaces",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "93.78%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.98%",
     "time": 1532,
     "timeDay": 859,
     "timeWeek": 1178,
     "timeMonth": 1402,
     "timeYear": 1532,
     "dailyMinutesDown": {
-      "2021-08-31": 0
+      "2021-09-01": 46,
+      "2021-08-31": 43
     }
   }
 ]
