@@ -4,10 +4,10 @@
     "url": "https://cms.ubc.ca",
     "icon": "https://favicons.githubusercontent.com/cms.ubc.ca",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 556,
@@ -16,6 +16,7 @@
     "timeMonth": 479,
     "timeYear": 553,
     "dailyMinutesDown": {
+      "2022-02-20": 2,
       "2021-12-08": 37,
       "2021-04-30": 60
     }
@@ -25,10 +26,10 @@
     "url": "https://blogs.ubc.ca",
     "icon": "https://favicons.githubusercontent.com/blogs.ubc.ca",
     "slug": "blogs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 787,
@@ -37,6 +38,7 @@
     "timeMonth": 882,
     "timeYear": 805,
     "dailyMinutesDown": {
+      "2022-02-20": 1,
       "2021-06-01": 1106,
       "2021-04-30": 60
     }
@@ -46,10 +48,10 @@
     "url": "https://events.ctlt.ubc.ca",
     "icon": "https://favicons.githubusercontent.com/events.ctlt.ubc.ca",
     "slug": "ctlt-events",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 1369,
@@ -58,6 +60,7 @@
     "timeMonth": 1616,
     "timeYear": 1353,
     "dailyMinutesDown": {
+      "2022-02-20": 1,
       "2021-10-04": 925,
       "2021-10-03": 505
     }
@@ -68,18 +71,18 @@
     "icon": "https://favicons.githubusercontent.com/coursespaces.ubc.ca",
     "slug": "course-spaces",
     "status": "down",
-    "uptime": "62.37%",
+    "uptime": "62.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.87%",
+    "uptimeYear": "52.73%",
     "time": 1532,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1502,
     "dailyMinutesDown": {
-      "2022-02-20": 12,
+      "2022-02-20": 711,
       "2022-02-19": 1440,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
