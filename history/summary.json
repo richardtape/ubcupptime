@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 598,
-    "timeDay": 622,
-    "timeWeek": 1673,
-    "timeMonth": 1116,
-    "timeYear": 580,
+    "time": 606,
+    "timeDay": 4435,
+    "timeWeek": 2227,
+    "timeMonth": 1230,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2022-03-19": 15,
       "2022-02-20": 37,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 776,
-    "timeDay": 575,
-    "timeWeek": 603,
-    "timeMonth": 740,
-    "timeYear": 738,
+    "timeDay": 732,
+    "timeWeek": 629,
+    "timeMonth": 751,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2022-02-20": 36
     }
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
-    "time": 1265,
-    "timeDay": 1311,
-    "timeWeek": 1032,
-    "timeMonth": 1075,
-    "timeYear": 1244,
+    "time": 1264,
+    "timeDay": 926,
+    "timeWeek": 1026,
+    "timeMonth": 1084,
+    "timeYear": 1243,
     "dailyMinutesDown": {
       "2022-07-11": 24,
       "2022-05-16": 987,
@@ -74,18 +74,19 @@
     "icon": "https://favicons.githubusercontent.com/coursespaces.ubc.ca",
     "slug": "course-spaces",
     "status": "down",
-    "uptime": "43.85%",
+    "uptime": "43.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1489,
+    "time": 1488,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-01": 15,
+      "2022-09-02": 15,
+      "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
@@ -448,8 +449,7 @@
       "2021-09-06": 1440,
       "2021-09-05": 1440,
       "2021-09-04": 1440,
-      "2021-09-03": 1440,
-      "2021-09-02": 1440
+      "2021-09-03": 1440
     }
   }
 ]
