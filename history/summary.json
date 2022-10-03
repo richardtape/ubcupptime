@@ -2,7 +2,7 @@
   {
     "name": "CMS",
     "url": "https://cms.ubc.ca",
-    "icon": "https://favicons.githubusercontent.com/cms.ubc.ca",
+    "icon": "https://icons.duckduckgo.com/ip3/cms.ubc.ca.ico",
     "slug": "cms",
     "status": "up",
     "uptime": "99.97%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 590,
-    "timeDay": 545,
-    "timeWeek": 517,
-    "timeMonth": 718,
+    "timeDay": 586,
+    "timeWeek": 514,
+    "timeMonth": 717,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2022-03-19": 15,
@@ -24,7 +24,7 @@
   {
     "name": "Blogs",
     "url": "https://blogs.ubc.ca",
-    "icon": "https://favicons.githubusercontent.com/blogs.ubc.ca",
+    "icon": "https://icons.duckduckgo.com/ip3/blogs.ubc.ca.ico",
     "slug": "blogs",
     "status": "up",
     "uptime": "99.86%",
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.96%",
-    "time": 767,
-    "timeDay": 528,
-    "timeWeek": 553,
-    "timeMonth": 711,
-    "timeYear": 721,
+    "time": 766,
+    "timeDay": 561,
+    "timeWeek": 540,
+    "timeMonth": 707,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2022-09-18": 158,
       "2022-02-20": 36
@@ -45,7 +45,7 @@
   {
     "name": "CTLT Events",
     "url": "https://events.ctlt.ubc.ca",
-    "icon": "https://favicons.githubusercontent.com/events.ctlt.ubc.ca",
+    "icon": "https://icons.duckduckgo.com/ip3/events.ctlt.ubc.ca.ico",
     "slug": "ctlt-events",
     "status": "up",
     "uptime": "99.66%",
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
     "time": 1247,
-    "timeDay": 1075,
-    "timeWeek": 1004,
-    "timeMonth": 1062,
+    "timeDay": 1056,
+    "timeWeek": 998,
+    "timeMonth": 1064,
     "timeYear": 1225,
     "dailyMinutesDown": {
       "2022-07-11": 24,
@@ -65,28 +65,28 @@
       "2022-04-21": 34,
       "2022-03-08": 17,
       "2022-02-20": 36,
-      "2021-10-04": 925,
-      "2021-10-03": 505
+      "2021-10-04": 925
     }
   },
   {
     "name": "CourseSpaces",
     "url": "https://coursespaces.ubc.ca/",
-    "icon": "https://favicons.githubusercontent.com/coursespaces.ubc.ca",
+    "icon": "https://icons.duckduckgo.com/ip3/coursespaces.ubc.ca.ico",
     "slug": "course-spaces",
     "status": "down",
-    "uptime": "41.86%",
+    "uptime": "41.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1471,
+    "time": 1470,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 22,
+      "2022-10-03": 20,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -449,8 +449,7 @@
       "2021-10-07": 1440,
       "2021-10-06": 1440,
       "2021-10-05": 1440,
-      "2021-10-04": 1440,
-      "2021-10-03": 1440
+      "2021-10-04": 1440
     }
   }
 ]
