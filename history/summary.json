@@ -11,14 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 605,
-    "timeDay": 430,
-    "timeWeek": 503,
-    "timeMonth": 569,
-    "timeYear": 638,
+    "timeDay": 632,
+    "timeWeek": 534,
+    "timeMonth": 566,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2022-03-19": 15,
-      "2022-02-20": 37,
-      "2021-12-08": 37
+      "2022-02-20": 37
     }
   },
   {
@@ -28,17 +27,16 @@
     "slug": "blogs",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 764,
-    "timeDay": 894,
-    "timeWeek": 696,
-    "timeMonth": 945,
-    "timeYear": 725,
+    "time": 765,
+    "timeDay": 1414,
+    "timeWeek": 825,
+    "timeMonth": 972,
+    "timeYear": 727,
     "dailyMinutesDown": {
-      "2022-12-07": 11,
       "2022-09-18": 158,
       "2022-02-20": 36
     }
@@ -54,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 1238,
-    "timeDay": 746,
-    "timeWeek": 799,
-    "timeMonth": 942,
-    "timeYear": 1218,
+    "time": 1237,
+    "timeDay": 877,
+    "timeWeek": 832,
+    "timeMonth": 943,
+    "timeYear": 1217,
     "dailyMinutesDown": {
       "2022-10-06": 19,
       "2022-07-11": 24,
@@ -75,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/coursespaces.ubc.ca.ico",
     "slug": "course-spaces",
     "status": "down",
-    "uptime": "38.14%",
+    "uptime": "38.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1458,
+    "time": 1456,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 498,
+      "2022-12-08": 13,
+      "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
@@ -449,8 +448,7 @@
       "2021-12-12": 1440,
       "2021-12-11": 1440,
       "2021-12-10": 1440,
-      "2021-12-09": 1440,
-      "2021-12-08": 1440
+      "2021-12-09": 1440
     }
   }
 ]
