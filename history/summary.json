@@ -6,18 +6,16 @@
     "slug": "cms",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 674,
-    "timeDay": 525,
-    "timeWeek": 605,
-    "timeMonth": 815,
-    "timeYear": 734,
-    "dailyMinutesDown": {
-      "2023-03-23": 8
-    }
+    "timeDay": 553,
+    "timeWeek": 616,
+    "timeMonth": 782,
+    "timeYear": 733,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blogs",
@@ -26,17 +24,16 @@
     "slug": "blogs",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 801,
-    "timeDay": 2015,
-    "timeWeek": 1683,
-    "timeMonth": 1493,
+    "timeDay": 1899,
+    "timeWeek": 1252,
+    "timeMonth": 1495,
     "timeYear": 826,
     "dailyMinutesDown": {
-      "2023-03-23": 8,
       "2022-09-18": 158
     }
   },
@@ -47,17 +44,16 @@
     "slug": "ctlt-events",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 1197,
-    "timeDay": 924,
-    "timeWeek": 937,
+    "time": 1196,
+    "timeDay": 953,
+    "timeWeek": 942,
     "timeMonth": 1270,
-    "timeYear": 1124,
+    "timeYear": 1120,
     "dailyMinutesDown": {
-      "2023-03-23": 8,
       "2022-10-06": 19,
       "2022-07-11": 24,
       "2022-05-16": 987,
@@ -71,7 +67,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coursespaces.ubc.ca.ico",
     "slug": "course-spaces",
     "status": "down",
-    "uptime": "33.40%",
+    "uptime": "33.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -82,7 +78,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-23": 872,
+      "2023-03-24": 13,
+      "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
@@ -445,8 +442,7 @@
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
-      "2022-03-25": 1440,
-      "2022-03-24": 1440
+      "2022-03-25": 1440
     }
   }
 ]
