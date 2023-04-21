@@ -4,10 +4,10 @@
     "url": "https://cms.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cms.ubc.ca.ico",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "95.99%",
-    "uptimeWeek": "99.43%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 777,
@@ -16,7 +16,7 @@
     "timeMonth": 1785,
     "timeYear": 855,
     "dailyMinutesDown": {
-      "2023-04-21": 58
+      "2023-04-21": 59
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "blogs",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.28%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.96%",
     "time": 885,
     "timeDay": 14207,
@@ -36,7 +36,7 @@
     "timeMonth": 1822,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2023-04-21": 46,
+      "2023-04-21": 53,
       "2022-09-18": 158
     }
   },
@@ -80,7 +80,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-21": 861,
+      "2023-04-21": 869,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
       "2023-04-18": 1440,
