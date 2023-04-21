@@ -4,19 +4,19 @@
     "url": "https://cms.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cms.ubc.ca.ico",
     "slug": "cms",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "94.77%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.99%",
-    "time": 777,
-    "timeDay": 12943,
-    "timeWeek": 4716,
-    "timeMonth": 1785,
-    "timeYear": 855,
+    "uptimeDay": "93.71%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.98%",
+    "time": 822,
+    "timeDay": 15157,
+    "timeWeek": 6424,
+    "timeMonth": 2312,
+    "timeYear": 911,
     "dailyMinutesDown": {
-      "2023-04-21": 76
+      "2023-04-21": 91
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://blogs.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/blogs.ubc.ca.ico",
     "slug": "blogs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "95.18%",
+    "uptimeDay": "95.14%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.96%",
-    "time": 935,
+    "time": 936,
     "timeDay": 17734,
     "timeWeek": 6818,
     "timeMonth": 2443,
     "timeYear": 993,
     "dailyMinutesDown": {
-      "2023-04-21": 69,
+      "2023-04-21": 70,
       "2022-09-18": 158
     }
   },
@@ -80,7 +80,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-21": 886,
+      "2023-04-21": 902,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
       "2023-04-18": 1440,
