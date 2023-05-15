@@ -11,9 +11,9 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
     "time": 871,
-    "timeDay": 677,
-    "timeWeek": 615,
-    "timeMonth": 2749,
+    "timeDay": 637,
+    "timeWeek": 623,
+    "timeMonth": 2748,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2023-04-21": 139
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.95%",
-    "time": 996,
-    "timeDay": 705,
-    "timeWeek": 1121,
-    "timeMonth": 3306,
+    "time": 995,
+    "timeDay": 525,
+    "timeWeek": 1095,
+    "timeMonth": 3291,
     "timeYear": 1079,
     "dailyMinutesDown": {
       "2023-04-21": 123,
@@ -47,21 +47,19 @@
     "slug": "ctlt-events",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
-    "time": 1200,
-    "timeDay": 1146,
-    "timeWeek": 1100,
-    "timeMonth": 998,
-    "timeYear": 1104,
+    "time": 1156,
+    "timeDay": 1168,
+    "timeWeek": 1115,
+    "timeMonth": 999,
+    "timeYear": 1106,
     "dailyMinutesDown": {
-      "2023-05-14": 8,
       "2022-10-06": 19,
       "2022-07-11": 24,
-      "2022-05-16": 987,
-      "2022-05-15": 810
+      "2022-05-16": 987
     }
   },
   {
@@ -70,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coursespaces.ubc.ca.ico",
     "slug": "course-spaces",
     "status": "down",
-    "uptime": "31.48%",
+    "uptime": "31.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -81,7 +79,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-14": 821,
+      "2023-05-15": 12,
+      "2023-05-14": 1440,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
@@ -444,8 +443,7 @@
       "2022-05-19": 1440,
       "2022-05-18": 1440,
       "2022-05-17": 1440,
-      "2022-05-16": 1440,
-      "2022-05-15": 1440
+      "2022-05-16": 1440
     }
   }
 ]
