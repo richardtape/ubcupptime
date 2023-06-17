@@ -24,11 +24,11 @@
     "url": "https://blogs.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/blogs.ubc.ca.ico",
     "slug": "blogs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1048,
     "timeDay": 690,
@@ -36,7 +36,7 @@
     "timeMonth": 1539,
     "timeYear": 1149,
     "dailyMinutesDown": {
-      "2023-06-17": 7,
+      "2023-06-17": 1,
       "2023-04-21": 123,
       "2022-09-18": 158
     }
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-17": 445,
+      "2023-06-17": 471,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
