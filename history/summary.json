@@ -6,17 +6,17 @@
     "slug": "cms",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 985,
     "timeDay": 699,
     "timeWeek": 748,
     "timeMonth": 952,
-    "timeYear": 1020,
+    "timeYear": 1018,
     "dailyMinutesDown": {
-      "2023-09-28": 1,
+      "2023-09-28": 8,
       "2023-04-21": 139
     }
   },
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-28": 280,
+      "2023-09-28": 288,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
