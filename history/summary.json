@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 990,
     "timeDay": 623,
-    "timeWeek": 861,
+    "timeWeek": 715,
     "timeMonth": 746,
     "timeYear": 1014,
     "dailyMinutesDown": {
@@ -27,12 +27,12 @@
     "status": "up",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 1118,
     "timeDay": 500,
-    "timeWeek": 2744,
+    "timeWeek": 570,
     "timeMonth": 1725,
     "timeYear": 1326,
     "dailyMinutesDown": {
@@ -46,10 +46,10 @@
     "url": "https://events.ctlt.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/events.ctlt.ubc.ca.ico",
     "slug": "ctlt-events",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1170,
@@ -58,6 +58,7 @@
     "timeMonth": 1508,
     "timeYear": 1212,
     "dailyMinutesDown": {
+      "2023-10-05": 1,
       "2023-09-26": 18,
       "2022-10-06": 19
     }
@@ -68,7 +69,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coursespaces.ubc.ca.ico",
     "slug": "course-spaces",
     "status": "down",
-    "uptime": "27.18%",
+    "uptime": "27.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -79,7 +80,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-05": 12,
+      "2023-10-05": 745,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
