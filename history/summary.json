@@ -8,13 +8,13 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 992,
-    "timeDay": 689,
-    "timeWeek": 661,
-    "timeMonth": 692,
-    "timeYear": 1078,
+    "timeDay": 430,
+    "timeWeek": 591,
+    "timeMonth": 687,
+    "timeYear": 1077,
     "dailyMinutesDown": {
       "2023-12-29": 129,
       "2023-10-20": 20,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1126,
-    "timeDay": 613,
-    "timeWeek": 646,
-    "timeMonth": 795,
-    "timeYear": 1272,
+    "time": 1125,
+    "timeDay": 382,
+    "timeWeek": 614,
+    "timeMonth": 790,
+    "timeYear": 1271,
     "dailyMinutesDown": {
       "2023-11-30": 27,
       "2023-09-28": 22,
@@ -52,17 +52,16 @@
     "slug": "ctlt-events",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1236,
-    "timeDay": 1142,
-    "timeWeek": 1042,
+    "timeDay": 1120,
+    "timeWeek": 1067,
     "timeMonth": 1021,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2024-01-29": 8,
       "2023-10-05": 16,
       "2023-09-26": 18
     }
@@ -73,7 +72,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coursespaces.ubc.ca.ico",
     "slug": "course-spaces",
     "status": "down",
-    "uptime": "24.46%",
+    "uptime": "24.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -84,7 +83,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-29": 706,
+      "2024-01-30": 12,
+      "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
@@ -447,8 +447,7 @@
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
-      "2023-01-31": 1440,
-      "2023-01-30": 1440
+      "2023-01-31": 1440
     }
   }
 ]
