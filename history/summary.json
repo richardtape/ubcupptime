@@ -6,17 +6,16 @@
     "slug": "cms",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 919,
-    "timeDay": 1133,
-    "timeWeek": 701,
-    "timeMonth": 796,
-    "timeYear": 905,
+    "time": 924,
+    "timeDay": 2159,
+    "timeWeek": 999,
+    "timeMonth": 896,
+    "timeYear": 913,
     "dailyMinutesDown": {
-      "2025-02-02": 9,
       "2025-01-19": 32,
       "2024-08-27": 82,
       "2024-08-12": 19
@@ -29,18 +28,16 @@
     "slug": "blogs",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 534,
-    "timeDay": 307,
-    "timeWeek": 362,
-    "timeMonth": 406,
+    "timeDay": 427,
+    "timeWeek": 367,
+    "timeMonth": 413,
     "timeYear": 456,
-    "dailyMinutesDown": {
-      "2025-02-02": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CTLT Events",
@@ -49,18 +46,16 @@
     "slug": "ctlt-events",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 888,
-    "timeDay": 692,
-    "timeWeek": 667,
-    "timeMonth": 617,
+    "timeDay": 747,
+    "timeWeek": 670,
+    "timeMonth": 627,
     "timeYear": 808,
-    "dailyMinutesDown": {
-      "2025-02-02": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CourseSpaces",
@@ -68,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coursespaces.ubc.ca.ico",
     "slug": "course-spaces",
     "status": "down",
-    "uptime": "18.57%",
+    "uptime": "18.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -79,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-02": 519,
+      "2025-02-03": 17,
+      "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
@@ -442,8 +438,7 @@
       "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
-      "2024-02-05": 1440,
-      "2024-02-04": 1440
+      "2024-02-05": 1440
     }
   }
 ]
