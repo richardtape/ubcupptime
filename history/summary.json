@@ -11,10 +11,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 911,
-    "timeDay": 446,
-    "timeWeek": 682,
-    "timeMonth": 880,
-    "timeYear": 911,
+    "timeDay": 590,
+    "timeWeek": 650,
+    "timeMonth": 883,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2025-01-19": 32,
       "2024-08-27": 82,
@@ -32,10 +32,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 532,
-    "timeDay": 263,
-    "timeWeek": 441,
-    "timeMonth": 416,
+    "time": 531,
+    "timeDay": 420,
+    "timeWeek": 405,
+    "timeMonth": 421,
     "timeYear": 454,
     "dailyMinutesDown": {}
   },
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 871,
-    "timeDay": 516,
-    "timeWeek": 638,
-    "timeMonth": 629,
-    "timeYear": 782,
+    "time": 869,
+    "timeDay": 646,
+    "timeWeek": 644,
+    "timeMonth": 635,
+    "timeYear": 781,
     "dailyMinutesDown": {}
   },
   {
@@ -63,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coursespaces.ubc.ca.ico",
     "slug": "course-spaces",
     "status": "down",
-    "uptime": "18.45%",
+    "uptime": "18.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -74,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-12": 17,
+      "2025-02-13": 17,
+      "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -437,8 +438,7 @@
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
-      "2024-02-15": 1440,
-      "2024-02-14": 1440
+      "2024-02-15": 1440
     }
   }
 ]
