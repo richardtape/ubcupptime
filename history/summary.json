@@ -44,19 +44,19 @@
     "url": "https://events.ctlt.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/events.ctlt.ubc.ca.ico",
     "slug": "ctlt-events",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 859,
-    "timeDay": 692,
-    "timeWeek": 698,
-    "timeMonth": 661,
+    "time": 858,
+    "timeDay": 740,
+    "timeWeek": 709,
+    "timeMonth": 665,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2025-02-17": 1
+      "2025-02-17": 12
     }
   },
   {
@@ -76,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-17": 206,
+      "2025-02-17": 218,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
