@@ -6,17 +6,16 @@
     "slug": "cms",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 908,
-    "timeDay": 421,
-    "timeWeek": 924,
-    "timeMonth": 829,
-    "timeYear": 914,
+    "time": 903,
+    "timeDay": 801,
+    "timeWeek": 980,
+    "timeMonth": 839,
+    "timeYear": 915,
     "dailyMinutesDown": {
-      "2025-02-23": 8,
       "2025-01-19": 32,
       "2024-08-27": 82,
       "2024-08-12": 19
@@ -29,18 +28,16 @@
     "slug": "blogs",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 529,
-    "timeDay": 266,
-    "timeWeek": 350,
+    "time": 528,
+    "timeDay": 339,
+    "timeWeek": 345,
     "timeMonth": 399,
     "timeYear": 448,
-    "dailyMinutesDown": {
-      "2025-02-23": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CTLT Events",
@@ -53,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 850,
-    "timeDay": 434,
-    "timeWeek": 575,
-    "timeMonth": 657,
-    "timeYear": 769,
+    "time": 849,
+    "timeDay": 498,
+    "timeWeek": 551,
+    "timeMonth": 651,
+    "timeYear": 767,
     "dailyMinutesDown": {}
   },
   {
@@ -66,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coursespaces.ubc.ca.ico",
     "slug": "course-spaces",
     "status": "down",
-    "uptime": "18.32%",
+    "uptime": "18.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -77,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-23": 878,
+      "2025-02-24": 17,
+      "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
@@ -440,8 +438,7 @@
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
-      "2024-02-26": 1440,
-      "2024-02-25": 1440
+      "2024-02-26": 1440
     }
   }
 ]
