@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 904,
-    "timeDay": 680,
-    "timeWeek": 613,
-    "timeMonth": 915,
-    "timeYear": 923,
+    "timeDay": 660,
+    "timeWeek": 607,
+    "timeMonth": 830,
+    "timeYear": 922,
     "dailyMinutesDown": {
       "2025-01-19": 32,
       "2024-08-27": 82,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 490,
-    "timeDay": 474,
-    "timeWeek": 404,
-    "timeMonth": 432,
-    "timeYear": 441,
+    "time": 489,
+    "timeDay": 449,
+    "timeWeek": 392,
+    "timeMonth": 428,
+    "timeYear": 442,
     "dailyMinutesDown": {}
   },
   {
@@ -46,18 +46,16 @@
     "slug": "ctlt-events",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 841,
-    "timeDay": 8246,
-    "timeWeek": 2638,
-    "timeMonth": 1206,
+    "time": 840,
+    "timeDay": 8241,
+    "timeWeek": 2630,
+    "timeMonth": 1207,
     "timeYear": 774,
-    "dailyMinutesDown": {
-      "2025-04-08": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CourseSpaces",
@@ -76,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-08": 1208,
+      "2025-04-09": 18,
+      "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -439,8 +438,7 @@
       "2024-04-13": 1440,
       "2024-04-12": 1440,
       "2024-04-11": 1440,
-      "2024-04-10": 1440,
-      "2024-04-09": 1440
+      "2024-04-10": 1440
     }
   }
 ]
