@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 868,
-    "timeDay": 620,
-    "timeWeek": 709,
-    "timeMonth": 904,
+    "timeDay": 636,
+    "timeWeek": 695,
+    "timeMonth": 899,
     "timeYear": 887,
     "dailyMinutesDown": {
       "2025-04-25": 63,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 451,
-    "timeDay": 545,
-    "timeWeek": 461,
-    "timeMonth": 475,
+    "timeDay": 530,
+    "timeWeek": 473,
+    "timeMonth": 480,
     "timeYear": 445,
     "dailyMinutesDown": {}
   },
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.ctlt.ubc.ca.ico",
     "slug": "ctlt-events",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 777,
-    "timeDay": 549,
-    "timeWeek": 589,
-    "timeMonth": 601,
+    "uptime": "99.83%",
+    "uptimeDay": "61.31%",
+    "uptimeWeek": "94.47%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "99.86%",
+    "time": 776,
+    "timeDay": 0,
+    "timeWeek": 577,
+    "timeMonth": 604,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2025-06-01": 1,
+      "2025-06-02": 20,
+      "2025-06-01": 537,
       "2025-04-23": 34,
       "2025-04-22": 157
     }
@@ -79,7 +80,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-01": 904,
+      "2025-06-02": 20,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -442,8 +444,7 @@
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
-      "2024-06-03": 1440,
-      "2024-06-02": 1440
+      "2024-06-03": 1440
     }
   }
 ]
