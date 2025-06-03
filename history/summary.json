@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 868,
-    "timeDay": 636,
-    "timeWeek": 695,
-    "timeMonth": 899,
-    "timeYear": 887,
+    "timeDay": 826,
+    "timeWeek": 713,
+    "timeMonth": 903,
+    "timeYear": 886,
     "dailyMinutesDown": {
       "2025-04-25": 63,
       "2025-01-19": 32,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 451,
-    "timeDay": 530,
-    "timeWeek": 473,
-    "timeMonth": 480,
-    "timeYear": 445,
+    "timeDay": 704,
+    "timeWeek": 510,
+    "timeMonth": 488,
+    "timeYear": 446,
     "dailyMinutesDown": {}
   },
   {
@@ -47,15 +47,15 @@
     "slug": "ctlt-events",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "0.04%",
+    "uptimeDay": "33.05%",
     "uptimeWeek": "84.92%",
     "uptimeMonth": "96.53%",
     "uptimeYear": "99.67%",
     "time": 775,
-    "timeDay": 370,
-    "timeWeek": 547,
-    "timeMonth": 596,
-    "timeYear": 745,
+    "timeDay": 452,
+    "timeWeek": 535,
+    "timeMonth": 595,
+    "timeYear": 744,
     "dailyMinutesDown": {
       "2025-06-02": 984,
       "2025-06-01": 537,
@@ -80,7 +80,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-02": 984,
+      "2025-06-03": 20,
+      "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
@@ -443,8 +444,7 @@
       "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
-      "2024-06-04": 1440,
-      "2024-06-03": 1440
+      "2024-06-04": 1440
     }
   }
 ]
