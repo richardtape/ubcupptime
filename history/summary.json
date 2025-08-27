@@ -8,18 +8,17 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 891,
-    "timeDay": 750,
-    "timeWeek": 764,
-    "timeMonth": 755,
-    "timeYear": 864,
+    "time": 890,
+    "timeDay": 469,
+    "timeWeek": 731,
+    "timeMonth": 744,
+    "timeYear": 863,
     "dailyMinutesDown": {
       "2025-07-26": 23,
       "2025-04-25": 63,
-      "2025-01-19": 32,
-      "2024-08-27": 82
+      "2025-01-19": 32
     }
   },
   {
@@ -31,12 +30,12 @@
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 448,
-    "timeDay": 524,
-    "timeWeek": 467,
-    "timeMonth": 465,
+    "timeDay": 258,
+    "timeWeek": 449,
+    "timeMonth": 462,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2025-07-26": 23
@@ -53,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 721,
-    "timeDay": 677,
-    "timeWeek": 598,
-    "timeMonth": 617,
-    "timeYear": 697,
+    "time": 720,
+    "timeDay": 428,
+    "timeWeek": 576,
+    "timeMonth": 612,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2025-06-02": 984,
       "2025-06-01": 537,
@@ -71,7 +70,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coursespaces.ubc.ca.ico",
     "slug": "course-spaces",
     "status": "down",
-    "uptime": "16.39%",
+    "uptime": "16.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -82,7 +81,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-26": 19,
+      "2025-08-27": 19,
+      "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -445,8 +445,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
-      "2024-08-28": 1440,
-      "2024-08-27": 1440
+      "2024-08-28": 1440
     }
   }
 ]
