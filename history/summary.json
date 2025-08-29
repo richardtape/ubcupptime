@@ -6,17 +6,16 @@
     "slug": "cms",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 891,
-    "timeDay": 833,
-    "timeWeek": 740,
-    "timeMonth": 753,
-    "timeYear": 813,
+    "time": 890,
+    "timeDay": 722,
+    "timeWeek": 694,
+    "timeMonth": 749,
+    "timeYear": 812,
     "dailyMinutesDown": {
-      "2025-08-28": 12,
       "2025-07-26": 23,
       "2025-04-25": 63,
       "2025-01-19": 32
@@ -33,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 611,
-    "timeWeek": 451,
-    "timeMonth": 471,
-    "timeYear": 447,
+    "time": 448,
+    "timeDay": 220,
+    "timeWeek": 394,
+    "timeMonth": 468,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2025-07-26": 23
     }
@@ -49,17 +48,16 @@
     "slug": "ctlt-events",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 757,
-    "timeDay": 1474,
-    "timeWeek": 864,
-    "timeMonth": 690,
-    "timeYear": 702,
+    "time": 761,
+    "timeDay": 2390,
+    "timeWeek": 1177,
+    "timeMonth": 779,
+    "timeYear": 710,
     "dailyMinutesDown": {
-      "2025-08-28": 12,
       "2025-06-02": 984,
       "2025-06-01": 537,
       "2025-04-23": 34,
@@ -83,7 +81,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-28": 1341,
+      "2025-08-29": 19,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -446,8 +445,7 @@
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
-      "2024-08-30": 1440,
-      "2024-08-29": 1440
+      "2024-08-30": 1440
     }
   }
 ]
