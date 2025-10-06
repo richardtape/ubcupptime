@@ -26,10 +26,10 @@
     "url": "https://blogs.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/blogs.ubc.ca.ico",
     "slug": "blogs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 447,
@@ -38,6 +38,7 @@
     "timeMonth": 428,
     "timeYear": 440,
     "dailyMinutesDown": {
+      "2025-10-06": 1,
       "2025-07-26": 23
     }
   },
@@ -81,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-06": 18,
+      "2025-10-06": 210,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
