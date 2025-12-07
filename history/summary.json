@@ -6,9 +6,9 @@
     "slug": "cms",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 859,
     "timeDay": 710,
@@ -16,7 +16,6 @@
     "timeMonth": 792,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2025-12-06": 13,
       "2025-12-02": 17,
       "2025-10-23": 52,
       "2025-10-22": 15,
@@ -32,9 +31,9 @@
     "slug": "blogs",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 451,
     "timeDay": 451,
@@ -42,7 +41,6 @@
     "timeMonth": 483,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2025-12-06": 13,
       "2025-12-02": 17,
       "2025-11-18": 19,
       "2025-07-26": 23
@@ -54,10 +52,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.ctlt.ubc.ca.ico",
     "slug": "ctlt-events",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptime": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.66%",
     "time": 934,
     "timeDay": 1469,
@@ -65,7 +63,6 @@
     "timeMonth": 1570,
     "timeYear": 1010,
     "dailyMinutesDown": {
-      "2025-12-06": 13,
       "2025-12-02": 17,
       "2025-10-23": 57,
       "2025-06-02": 984,
@@ -91,7 +88,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-06": 1399,
+      "2025-12-07": 23,
+      "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -454,8 +452,7 @@
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
-      "2024-12-08": 1440,
-      "2024-12-07": 1440
+      "2024-12-08": 1440
     }
   }
 ]
