@@ -6,9 +6,9 @@
     "slug": "cms",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 854,
     "timeDay": 838,
@@ -16,7 +16,6 @@
     "timeMonth": 800,
     "timeYear": 815,
     "dailyMinutesDown": {
-      "2025-12-11": 8,
       "2025-12-02": 17,
       "2025-10-23": 52,
       "2025-10-22": 15,
@@ -32,9 +31,9 @@
     "slug": "blogs",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 450,
     "timeDay": 380,
@@ -42,7 +41,6 @@
     "timeMonth": 486,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2025-12-11": 8,
       "2025-12-02": 17,
       "2025-11-18": 19,
       "2025-07-26": 23
@@ -55,9 +53,9 @@
     "slug": "ctlt-events",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.66%",
     "time": 948,
     "timeDay": 2055,
@@ -65,7 +63,6 @@
     "timeMonth": 1639,
     "timeYear": 1031,
     "dailyMinutesDown": {
-      "2025-12-11": 8,
       "2025-12-02": 17,
       "2025-10-23": 57,
       "2025-06-02": 984,
@@ -91,7 +88,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-11": 1431,
+      "2025-12-12": 21,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -454,8 +452,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   }
 ]
