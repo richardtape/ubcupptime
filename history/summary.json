@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
-    "time": 795,
-    "timeDay": 902,
-    "timeWeek": 879,
-    "timeMonth": 800,
-    "timeYear": 795,
+    "time": 797,
+    "timeDay": 940,
+    "timeWeek": 921,
+    "timeMonth": 799,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2026-02-20": 19,
       "2026-02-12": 26,
@@ -35,15 +35,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blogs.ubc.ca.ico",
     "slug": "blogs",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 445,
-    "timeDay": 756,
-    "timeWeek": 513,
-    "timeMonth": 452,
+    "timeDay": 450,
+    "timeWeek": 527,
+    "timeMonth": 445,
     "timeYear": 454,
     "dailyMinutesDown": {
       "2026-02-21": 23,
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.63%",
-    "time": 1149,
-    "timeDay": 2179,
-    "timeWeek": 1922,
-    "timeMonth": 1834,
-    "timeYear": 1354,
+    "time": 1151,
+    "timeDay": 2159,
+    "timeWeek": 1940,
+    "timeMonth": 1843,
+    "timeYear": 1358,
     "dailyMinutesDown": {
       "2026-03-03": 23,
       "2026-02-20": 19,
@@ -106,7 +106,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-13": 28,
+      "2026-03-14": 24,
+      "2026-03-13": 1440,
       "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
@@ -469,8 +470,7 @@
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
-      "2025-03-15": 1440,
-      "2025-03-14": 1440
+      "2025-03-15": 1440
     }
   }
 ]
