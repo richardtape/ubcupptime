@@ -4,10 +4,10 @@
     "url": "https://cms.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cms.ubc.ca.ico",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
     "time": 882,
@@ -32,7 +32,8 @@
       "2026-04-12": 26,
       "2026-04-17": 26,
       "2026-04-26": 1026,
-      "2026-04-25": 1113
+      "2026-04-25": 1113,
+      "2026-06-01": 1
     }
   },
   {
@@ -73,13 +74,13 @@
     "url": "https://events.ctlt.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/events.ctlt.ubc.ca.ico",
     "slug": "ctlt-events",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.21%",
-    "time": 1382,
+    "uptimeYear": "99.31%",
+    "time": 1383,
     "timeDay": 1481,
     "timeWeek": 1673,
     "timeMonth": 1667,
@@ -104,7 +105,8 @@
       "2026-04-25": 1113,
       "2026-04-28": 28,
       "2026-05-10": 23,
-      "2026-05-21": 34
+      "2026-05-21": 34,
+      "2026-06-01": 1
     }
   },
   {
@@ -113,7 +115,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coursespaces.ubc.ca.ico",
     "slug": "course-spaces",
     "status": "down",
-    "uptime": "14.12%",
+    "uptime": "14.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -124,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-01": 53,
+      "2026-06-01": 1388,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
