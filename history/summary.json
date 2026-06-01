@@ -4,16 +4,16 @@
     "url": "https://cms.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cms.ubc.ca.ico",
     "slug": "cms",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.52%",
     "time": 882,
-    "timeDay": 549,
-    "timeWeek": 786,
-    "timeMonth": 858,
+    "timeDay": 711,
+    "timeWeek": 734,
+    "timeMonth": 848,
     "timeYear": 900,
     "dailyMinutesDown": {
       "2025-07-26": 23,
@@ -33,7 +33,7 @@
       "2026-04-17": 26,
       "2026-04-26": 1026,
       "2026-04-25": 1113,
-      "2026-06-01": 1
+      "2026-06-01": 21
     }
   },
   {
@@ -48,9 +48,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.92%",
     "time": 454,
-    "timeDay": 265,
-    "timeWeek": 432,
-    "timeMonth": 500,
+    "timeDay": 538,
+    "timeWeek": 429,
+    "timeMonth": 502,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2025-07-26": 23,
@@ -74,17 +74,17 @@
     "url": "https://events.ctlt.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/events.ctlt.ubc.ca.ico",
     "slug": "ctlt-events",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.31%",
-    "time": 1383,
-    "timeDay": 1481,
-    "timeWeek": 1673,
-    "timeMonth": 1667,
-    "timeYear": 1596,
+    "time": 1386,
+    "timeDay": 2333,
+    "timeWeek": 1778,
+    "timeMonth": 1699,
+    "timeYear": 1598,
     "dailyMinutesDown": {
       "2025-06-02": 984,
       "2025-10-23": 57,
@@ -106,7 +106,7 @@
       "2026-04-28": 28,
       "2026-05-10": 23,
       "2026-05-21": 34,
-      "2026-06-01": 1
+      "2026-06-01": 21
     }
   },
   {
@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-01": 1388,
+      "2026-06-01": 1409,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
