@@ -4,13 +4,13 @@
     "url": "https://cms.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cms.ubc.ca.ico",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.49%",
-    "time": 891,
+    "time": 889,
     "timeDay": 935,
     "timeWeek": 1108,
     "timeMonth": 904,
@@ -35,7 +35,8 @@
       "2026-04-25": 1113,
       "2026-06-01": 21,
       "2026-06-02": 32,
-      "2026-06-08": 85
+      "2026-06-08": 85,
+      "2026-06-11": 1
     }
   },
   {
@@ -43,10 +44,10 @@
     "url": "https://blogs.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/blogs.ubc.ca.ico",
     "slug": "blogs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.92%",
     "time": 456,
@@ -68,7 +69,8 @@
       "2026-03-25": 72,
       "2026-04-10": 20,
       "2026-04-12": 26,
-      "2026-05-27": 86
+      "2026-05-27": 86,
+      "2026-06-11": 1
     }
   },
   {
@@ -76,13 +78,13 @@
     "url": "https://events.ctlt.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/events.ctlt.ubc.ca.ico",
     "slug": "ctlt-events",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.48%",
-    "time": 1412,
+    "time": 1413,
     "timeDay": 2336,
     "timeWeek": 2251,
     "timeMonth": 1873,
@@ -109,7 +111,8 @@
       "2026-05-21": 34,
       "2026-06-01": 21,
       "2026-06-02": 31,
-      "2026-06-08": 85
+      "2026-06-08": 85,
+      "2026-06-11": 1
     }
   },
   {
@@ -129,7 +132,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-11": 52,
+      "2026-06-11": 232,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
