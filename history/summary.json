@@ -79,16 +79,16 @@
     "url": "https://events.ctlt.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/events.ctlt.ubc.ca.ico",
     "slug": "ctlt-events",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.44%",
-    "time": 1443,
-    "timeDay": 770,
-    "timeWeek": 1893,
-    "timeMonth": 1903,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "94.47%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "99.43%",
+    "time": 1445,
+    "timeDay": 1086,
+    "timeWeek": 1875,
+    "timeMonth": 1898,
     "timeYear": 1670,
     "dailyMinutesDown": {
       "2025-10-23": 57,
@@ -115,7 +115,7 @@
       "2026-06-08": 85,
       "2026-06-11": 95,
       "2026-06-19": 97,
-      "2026-06-21": 1
+      "2026-06-21": 80
     }
   },
   {
@@ -135,7 +135,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-21": 529,
+      "2026-06-21": 609,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
