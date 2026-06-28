@@ -4,13 +4,13 @@
     "url": "https://cms.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cms.ubc.ca.ico",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "99.45%",
-    "time": 885,
+    "time": 886,
     "timeDay": 527,
     "timeWeek": 796,
     "timeMonth": 873,
@@ -38,7 +38,8 @@
       "2026-06-08": 85,
       "2026-06-11": 95,
       "2026-06-19": 97,
-      "2026-06-24": 43
+      "2026-06-24": 43,
+      "2026-06-28": 1
     }
   },
   {
@@ -46,13 +47,13 @@
     "url": "https://blogs.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/blogs.ubc.ca.ico",
     "slug": "blogs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.90%",
-    "time": 456,
+    "time": 457,
     "timeDay": 292,
     "timeWeek": 413,
     "timeMonth": 466,
@@ -72,7 +73,8 @@
       "2026-04-10": 20,
       "2026-04-12": 26,
       "2026-05-27": 86,
-      "2026-06-11": 95
+      "2026-06-11": 95,
+      "2026-06-28": 1
     }
   },
   {
@@ -80,15 +82,15 @@
     "url": "https://events.ctlt.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/events.ctlt.ubc.ca.ico",
     "slug": "ctlt-events",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.79%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.42%",
-    "time": 1467,
+    "time": 1469,
     "timeDay": 1988,
-    "timeWeek": 1914,
+    "timeWeek": 2149,
     "timeMonth": 1988,
     "timeYear": 1698,
     "dailyMinutesDown": {
@@ -117,7 +119,8 @@
       "2026-06-11": 95,
       "2026-06-19": 97,
       "2026-06-21": 80,
-      "2026-06-24": 42
+      "2026-06-24": 42,
+      "2026-06-28": 1
     }
   },
   {
@@ -137,7 +140,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-28": 50,
+      "2026-06-28": 1162,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
