@@ -4,17 +4,17 @@
     "url": "https://cms.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cms.ubc.ca.ico",
     "slug": "cms",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "93.56%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "90.04%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "99.42%",
     "time": 890,
-    "timeDay": 1007,
-    "timeWeek": 843,
-    "timeMonth": 912,
-    "timeYear": 900,
+    "timeDay": 851,
+    "timeWeek": 816,
+    "timeMonth": 902,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2025-07-26": 23,
       "2025-10-22": 15,
@@ -40,7 +40,7 @@
       "2026-06-19": 97,
       "2026-06-24": 43,
       "2026-06-28": 34,
-      "2026-07-01": 93
+      "2026-07-01": 144
     }
   },
   {
@@ -48,16 +48,16 @@
     "url": "https://blogs.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/blogs.ubc.ca.ico",
     "slug": "blogs",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.89%",
-    "time": 458,
-    "timeDay": 579,
-    "timeWeek": 438,
-    "timeMonth": 478,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.88%",
+    "time": 457,
+    "timeDay": 420,
+    "timeWeek": 419,
+    "timeMonth": 471,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2025-07-26": 23,
@@ -76,7 +76,7 @@
       "2026-05-27": 86,
       "2026-06-11": 95,
       "2026-06-28": 34,
-      "2026-07-01": 1
+      "2026-07-01": 51
     }
   },
   {
@@ -84,17 +84,17 @@
     "url": "https://events.ctlt.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/events.ctlt.ubc.ca.ico",
     "slug": "ctlt-events",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "93.60%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "99.39%",
-    "time": 1490,
-    "timeDay": 2521,
-    "timeWeek": 2303,
-    "timeMonth": 2093,
-    "timeYear": 1716,
+    "uptimeDay": "90.08%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "99.38%",
+    "time": 1492,
+    "timeDay": 2152,
+    "timeWeek": 2223,
+    "timeMonth": 2076,
+    "timeYear": 1715,
     "dailyMinutesDown": {
       "2025-10-23": 57,
       "2025-12-02": 17,
@@ -123,7 +123,7 @@
       "2026-06-21": 80,
       "2026-06-24": 42,
       "2026-06-28": 33,
-      "2026-07-01": 93
+      "2026-07-01": 143
     }
   },
   {
@@ -143,7 +143,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 967,
+      "2026-07-01": 1018,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
