@@ -4,13 +4,13 @@
     "url": "https://cms.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cms.ubc.ca.ico",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "93.63%",
-    "uptimeWeek": "98.33%",
+    "uptimeDay": "93.56%",
+    "uptimeWeek": "98.32%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.43%",
-    "time": 889,
+    "time": 890,
     "timeDay": 1007,
     "timeWeek": 843,
     "timeMonth": 912,
@@ -40,7 +40,7 @@
       "2026-06-19": 97,
       "2026-06-24": 43,
       "2026-06-28": 34,
-      "2026-07-01": 92
+      "2026-07-01": 93
     }
   },
   {
@@ -48,10 +48,10 @@
     "url": "https://blogs.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/blogs.ubc.ca.ico",
     "slug": "blogs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.89%",
     "time": 458,
@@ -75,7 +75,8 @@
       "2026-04-12": 26,
       "2026-05-27": 86,
       "2026-06-11": 95,
-      "2026-06-28": 34
+      "2026-06-28": 34,
+      "2026-07-01": 1
     }
   },
   {
@@ -83,13 +84,13 @@
     "url": "https://events.ctlt.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/events.ctlt.ubc.ca.ico",
     "slug": "ctlt-events",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "93.64%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "98.69%",
+    "uptimeDay": "93.60%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "99.39%",
-    "time": 1488,
+    "time": 1490,
     "timeDay": 2521,
     "timeWeek": 2303,
     "timeMonth": 2093,
@@ -122,7 +123,7 @@
       "2026-06-21": 80,
       "2026-06-24": 42,
       "2026-06-28": 33,
-      "2026-07-01": 92
+      "2026-07-01": 93
     }
   },
   {
@@ -142,7 +143,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 413,
+      "2026-07-01": 967,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
