@@ -4,11 +4,11 @@
     "url": "https://cms.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cms.ubc.ca.ico",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "98.87%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "99.42%",
     "time": 889,
     "timeDay": 987,
@@ -40,7 +40,8 @@
       "2026-06-19": 97,
       "2026-06-24": 43,
       "2026-06-28": 34,
-      "2026-07-01": 144
+      "2026-07-01": 144,
+      "2026-07-05": 1
     }
   },
   {
@@ -48,10 +49,10 @@
     "url": "https://blogs.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/blogs.ubc.ca.ico",
     "slug": "blogs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.16%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.15%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.88%",
     "time": 458,
@@ -76,7 +77,8 @@
       "2026-05-27": 86,
       "2026-06-11": 95,
       "2026-06-28": 34,
-      "2026-07-01": 51
+      "2026-07-01": 51,
+      "2026-07-05": 1
     }
   },
   {
@@ -84,13 +86,13 @@
     "url": "https://events.ctlt.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/events.ctlt.ubc.ca.ico",
     "slug": "ctlt-events",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.25%",
     "uptimeMonth": "98.69%",
     "uptimeYear": "99.38%",
-    "time": 1502,
+    "time": 1504,
     "timeDay": 2323,
     "timeWeek": 2249,
     "timeMonth": 2120,
@@ -123,7 +125,8 @@
       "2026-06-21": 80,
       "2026-06-24": 42,
       "2026-06-28": 33,
-      "2026-07-01": 143
+      "2026-07-01": 143,
+      "2026-07-05": 1
     }
   },
   {
@@ -132,7 +135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coursespaces.ubc.ca.ico",
     "slug": "course-spaces",
     "status": "down",
-    "uptime": "13.89%",
+    "uptime": "13.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -143,7 +146,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 41,
+      "2026-07-05": 620,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
