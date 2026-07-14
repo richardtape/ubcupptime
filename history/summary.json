@@ -4,13 +4,13 @@
     "url": "https://cms.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cms.ubc.ca.ico",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.88%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "98.87%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "99.38%",
-    "time": 874,
+    "time": 875,
     "timeDay": 1093,
     "timeWeek": 897,
     "timeMonth": 854,
@@ -43,7 +43,8 @@
       "2026-07-01": 144,
       "2026-07-05": 48,
       "2026-07-08": 35,
-      "2026-07-09": 78
+      "2026-07-09": 78,
+      "2026-07-14": 1
     }
   },
   {
@@ -51,10 +52,10 @@
     "url": "https://blogs.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/blogs.ubc.ca.ico",
     "slug": "blogs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.23%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.22%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.86%",
     "time": 459,
@@ -81,7 +82,8 @@
       "2026-06-28": 34,
       "2026-07-01": 51,
       "2026-07-05": 48,
-      "2026-07-09": 78
+      "2026-07-09": 78,
+      "2026-07-14": 1
     }
   },
   {
@@ -89,13 +91,13 @@
     "url": "https://events.ctlt.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/events.ctlt.ubc.ca.ico",
     "slug": "ctlt-events",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.89%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.88%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.35%",
-    "time": 1539,
+    "time": 1540,
     "timeDay": 2551,
     "timeWeek": 2074,
     "timeMonth": 2075,
@@ -131,7 +133,8 @@
       "2026-07-01": 143,
       "2026-07-05": 48,
       "2026-07-08": 35,
-      "2026-07-09": 77
+      "2026-07-09": 77,
+      "2026-07-14": 1
     }
   },
   {
@@ -140,7 +143,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coursespaces.ubc.ca.ico",
     "slug": "course-spaces",
     "status": "down",
-    "uptime": "13.83%",
+    "uptime": "13.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -151,7 +154,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-14": 31,
+      "2026-07-14": 532,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
