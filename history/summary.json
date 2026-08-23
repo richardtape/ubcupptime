@@ -4,16 +4,16 @@
     "url": "https://cms.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cms.ubc.ca.ico",
     "slug": "cms",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.36%",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "65.28%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "99.27%",
     "time": 911,
-    "timeDay": 769,
-    "timeWeek": 918,
-    "timeMonth": 1103,
+    "timeDay": 802,
+    "timeWeek": 916,
+    "timeMonth": 1098,
     "timeYear": 930,
     "dailyMinutesDown": {
       "2025-10-22": 15,
@@ -47,7 +47,7 @@
       "2026-07-30": 58,
       "2026-08-17": 33,
       "2026-08-22": 30,
-      "2026-08-23": 1
+      "2026-08-23": 470
     }
   },
   {
@@ -95,16 +95,16 @@
     "url": "https://events.ctlt.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/events.ctlt.ubc.ca.ico",
     "slug": "ctlt-events",
-    "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.32%",
-    "time": 1622,
-    "timeDay": 1537,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "65.32%",
+    "uptimeWeek": "94.72%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "99.23%",
+    "time": 1624,
+    "timeDay": 1658,
     "timeWeek": 2024,
-    "timeMonth": 2154,
+    "timeMonth": 2150,
     "timeYear": 1919,
     "dailyMinutesDown": {
       "2025-10-23": 57,
@@ -142,7 +142,7 @@
       "2026-07-30": 57,
       "2026-08-17": 33,
       "2026-08-22": 30,
-      "2026-08-23": 1
+      "2026-08-23": 470
     }
   },
   {
@@ -162,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 558,
+      "2026-08-23": 1028,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
