@@ -4,17 +4,17 @@
     "url": "https://cms.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cms.ubc.ca.ico",
     "slug": "cms",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "99.27%",
-    "time": 918,
-    "timeDay": 1149,
-    "timeWeek": 1254,
-    "timeMonth": 1139,
-    "timeYear": 944,
+    "uptimeDay": "81.69%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "99.22%",
+    "time": 919,
+    "timeDay": 1264,
+    "timeWeek": 1280,
+    "timeMonth": 1148,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2025-10-22": 15,
       "2025-10-23": 52,
@@ -48,7 +48,7 @@
       "2026-08-17": 33,
       "2026-08-22": 30,
       "2026-08-23": 470,
-      "2026-09-04": 1
+      "2026-09-04": 264
     }
   },
   {
@@ -96,17 +96,17 @@
     "url": "https://events.ctlt.ubc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/events.ctlt.ubc.ca.ico",
     "slug": "ctlt-events",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "99.23%",
-    "time": 1666,
-    "timeDay": 2136,
-    "timeWeek": 2445,
-    "timeMonth": 2180,
-    "timeYear": 1952,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "81.71%",
+    "uptimeWeek": "97.39%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "99.18%",
+    "time": 1669,
+    "timeDay": 2216,
+    "timeWeek": 2437,
+    "timeMonth": 2185,
+    "timeYear": 1953,
     "dailyMinutesDown": {
       "2025-10-23": 57,
       "2025-12-02": 17,
@@ -144,7 +144,7 @@
       "2026-08-17": 33,
       "2026-08-22": 30,
       "2026-08-23": 470,
-      "2026-09-04": 1
+      "2026-09-04": 263
     }
   },
   {
@@ -164,7 +164,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-04": 549,
+      "2026-09-04": 812,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
