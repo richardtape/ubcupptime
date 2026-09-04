@@ -1,7 +1,7 @@
 url: https://cms.ubc.ca
-status: down
-code: 500
-responseTime: 1479
-lastUpdated: 2026-09-04T09:07:38.273Z
+status: up
+code: 200
+responseTime: 1495
+lastUpdated: 2026-09-04T13:31:16.109Z
 startTime: 2020-11-19T20:09:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
